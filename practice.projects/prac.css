@@ -1,0 +1,137 @@
+*{
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
+padding-bottom: 0;
+background-repeat: no-repeat;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2013/07/13/11/44/penguin-158551_960_720.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#container{
+    margin-top: 35%;
+    margin-left: 50%;
+    transform: translate(-50%,-50%);
+    width: 30%;
+    border-radius: 50px;
+    border: 3px solid;
+    background-color: black;
+    opacity: 0.8;
+}
+.h1{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+}
+.name{
+    margin-left:30px;
+    text-align: center;
+    width: 80%;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    background-color:black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: hidden;
+    margin-top:15px ;
+    font-size: medium;
+}
+.email{
+    margin-left:30px;
+    text-align: center;
+    width: 80%;
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: hidden;
+    font-size: medium;
+}
+.pass{
+    margin-left:30px;
+    text-align: center;
+    width: 80%;
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    background-color:black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: hidden;
+    font-size: medium;
+}
+.male{
+    color: white;
+}
+.female{
+    color:white;
+}
+.radio{
+    margin-left: 40%;
+    margin-top: 15px;
+}
+.radioo{
+    margin-left: 40%;
+    margin-top: 15px;
+}
+.onclick{
+    margin-left: 40%;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.mark{
+    color:white;
+  
+}
+input:hover{
+    background-color:gray;
+     border-radius: 10px;
+     width: fit-content;
+     opacity: 0.5;
+     
+}
+button:hover{
+    color: white;
+     border-radius: 30px;
+   padding-left: 10px;
+   padding-right: 10px;
+   opacity: 0.5;
+}
+label:hover{
+    color: white;
+    border-radius: 3px;
+    opacity: 0.5;
+    
+}
+.h2{
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+}
+.call{
+text-align: center;
+}
+.mail{
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+.con{
+    border-radius: 50px;
+    margin-top: 15px;
+    opacity: 0.8;
+}
+a:hover{
+    color: white;
+}

@@ -1,0 +1,35 @@
+body{
+   background-image: url(https://cdn.pixabay.com/photo/2010/11/29/himalayas-409_960_720.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   border: 2px;
+}
+.h1{
+   text-align: center;
+   text-decoration: underline;
+   color: white;
+   opacity: 0.8;
+}
+#box{
+   background-color: hsla(197, 78%, 2%, 0.3);
+   margin-top: 35%;
+   opacity: 0.8;
+   border-radius: 10px;
+}
+.h2{
+   text-align: center;
+   text-decoration: underline;
+   color: white;
+}
+.paragraph{
+   text-align: center;
+   color: white;
+   font-size: large;
+   text-decoration: underline;
+}
+.button{
+   color: black;
+   margin-left: 47%;
+   opacity: 0.8;
+   border-radius: 5px;
+}

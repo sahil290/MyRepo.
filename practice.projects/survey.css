@@ -1,0 +1,118 @@
+.h1{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+.h2{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+.h3{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+#box{
+    margin-top: 30%;
+    margin-left: 50%;
+    transform: translate(-50%,-50%);
+    width: 50%;
+    height: 18em;
+    border-radius: 50px;
+    border: 3px solid;
+    background-color: rgb(36, 118, 129);
+}
+body{
+    background-image: url(https://cais.usc.edu/wp-content/uploads/2019/08/covid-virus-person-mask-e1586569811589.jpg);
+    height: 100%;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    margin-left:30px;
+    text-align: center;
+    width: 80%;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: hidden;
+    margin-top:15px ;
+    font-size: medium;
+}
+.email{
+    margin-left:30px;
+    text-align: center;
+    width: 80%;
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: hidden;
+    font-size: medium;
+}
+.pass{
+    margin-left:30px;
+    text-align: center;
+    width: 80%;
+    margin-top: 15px;
+    height: 30px;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-style: hidden;
+    font-size: medium;
+}
+.male{
+    color: black;
+}
+.female{
+    color:black;
+}
+.radio{
+    margin-left: 40%;
+    margin-top: 15px;
+}
+.radioo{
+    margin-left: 40%;
+    margin-top: 15px;
+}
+.onclick{
+    margin-left: 40%;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.mark{
+    color:white;
+  
+}
+input:hover{
+    background-color:gray;
+     border-radius: 10px;
+     width: fit-content;
+}
+.submit{
+    margin-left: 40%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.m{
+  color: white;
+  background-color: black;
+  font-size: large;
+  text-decoration: underline;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
