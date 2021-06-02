@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+#container{
+  min-height: 100vh;
+}
+.div1{
+  height: 30vh;
+  background-color: rgba(130, 157, 187, 0.856);
+}
+.div2{      
+  height: 70vh;
+  background-color: rgb(241, 234, 234);
+  position: relative;
+}
+.form{
+position: absolute;
+background-color: white;
+top: -4em; left: 37%;
+height: 24em; width : 24em;
+border: -1px solid;
+border-radius: 3px;
+}
+.h4{
+   font-family:sans-serif,Arial,Helvetica; 
+  font-size: 15px;
+  padding : 30px 50px;
+}
+.p1{
+  font-family:sans-serif,Arial,Helvetica; 
+  font-size: 14px;
+  padding : 0px 50px 10px ;
+  margin: 0px;
+}
+em{
+background-color: rgba(54, 77, 104, 0.856);
+color: white;
+position: absolute;
+margin-top: 13vh;
+margin-left: 75vh;
+font-size: 20px;
+width: 30px;
+height: 30px;
+border-radius: 50%;
+padding: 5px;
+}
+.p2{
+  margin-top: 14vh;
+margin-left: 120vh;
+position: absolute;
+color: white;
+text-decoration: none;
+font-family:sans-serif,Arial,Helvetica; 
+font-size: 13px;
+font-weight: bold; 
+}
+.label{
+  font-family:sans-serif,Arial,Helvetica; 
+  font-size: 14px;
+  padding : 30px 50px;
+}
+.text{
+  font-family:sans-serif,Arial,Helvetica; 
+  font-size: 12px;
+  padding : 20px 1px;
+  width: 270px;
+  margin-left: 50px;
+  height: 1vh;
+  border-bottom:1px solid;
+}
+.code{
+  font-family:sans-serif,Arial,Helvetica; 
+  font-size: 14px;
+  padding : 5px 50px;
+}
+.number2{
+  width: 163px;
+  padding : 5px;
+  border-bottom:1px solid;
+  margin-left: 55px;
+}
+.input1{
+  width: 50px;
+  padding : 5px 1px;
+  border-bottom:1px solid;
+  margin-left: 50px;
+}
+.p3{
+  position: absolute;
+  margin-top: 51vh;
+  margin-left: 75vh;
+  color:rgba(54, 77, 104, 0.856) ;
+  font-family:Tahoma,sans-serif,Arial,Helvetica; 
+}
+.learn{
+  position: absolute;
+  margin-top: 55vh;
+  margin-left: 93vh;
+  color:rgba(54, 77, 104, 0.856);
+  text-decoration: none;
+  font-family:Tahoma,sans-serif,Arial,Helvetica; 
+}
